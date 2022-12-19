@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_type">br.com.myfirstapp.login</string>
+	<string name="app_name">myfirstapp</string>
+	<string name="app_package">br.com.myfirstapp</string>
+</resources>
